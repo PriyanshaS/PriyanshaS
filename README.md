@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyansha Singhal!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate problem solver from India</h3>
 
 - 🔭 I’m currently working on **C++, Problem Solving**
 
-- 🌱 I’m currently learning **C++, HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Flutter, C++, HTML, CSS and JavaScript**
 
-- 💬 Ask me about **HTML, CSS and JavaScript.**
+- 💬 Ask me about **HTML, CSS , JavaScript and Flutter**
 
 - 📫 How to reach me **singhalpriyansha@gmail.com**
 
